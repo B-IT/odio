@@ -2,8 +2,9 @@
 
 ## odio is a free radio streaming software with more than 20,000 radio stations from around the world for Windows, MacOs (Linux - Coming Soon!)
 
-### https://www.odio.io
+### Releases Repository
 
+### https://www.odio.io
 
 ![Odio app](https://odio.io/imgs/screenshots/2.png)
 
