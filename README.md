@@ -1,6 +1,6 @@
-# odio - Free radio streaming software for Windows & Mac (Linux - Coming Soon!).
+# odio - Free radio streaming software for Windows & Mac.
 
-## odio is a free radio streaming software with more than 20,000 radio stations from around the world for Windows, MacOs and Linux.
+## odio is a free radio streaming software with more than 20,000 radio stations from around the world for Windows, MacOs (Linux - Coming Soon!)
 
 ### https://www.odio.io
 
