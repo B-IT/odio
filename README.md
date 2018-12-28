@@ -1,5 +1,5 @@
 ### - IMPORTANT -
-### MacOS/Windows users you need to upgrade manually to version 1.3.5 or higher, in version 1.1.0 there is a problem with the automatic updates.
+### MacOS/Windows users if you have version lower then 1.3.5 -> you need to upgrade manually to version 1.3.5 or higher, in version 1.1.0 there is a problem with the automatic updates.
 ### -----------------
 
 
