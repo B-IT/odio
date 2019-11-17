@@ -1,7 +1,6 @@
 
 ## Working (hard) on the next version of odio (2.0)
 ## developing from the ground up (lots of fixs & features) so this is a good time to suggest big ideas.
-### I will be release the code in the next release (or after it) ♡
 --------------------------
 # odio - Free radio streaming software for Windows, Mac & Linux.
 
