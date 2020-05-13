@@ -4,17 +4,18 @@
 
 ### - Odio version 2.0 new features (the first beta version will be available on 01/07/2020) -
 
+- [x] Migrate to the new servers (Radio-browser.info)
 - [x] Rewrite the audio engine
 - [x] Favorites: now you can favorite stations, tags, searches
 - [x] Multilanguage: will be available in English, Hebrew and your language! (help translate odio to your language, more details you can find in the 'translations' folder.)
 - [x] RTL support 
 - [x] New notification system
-- [x] New setting page
+- [x] New settings page
 - [x] Touchbar support
 - [x] Read stream meta-data (which song is playing - for supported streams) 
 - [x] Improve filter of station, countries & tags!
 - [ ] Mini-mode
-- [ ] Notification update with changelog
+- [ ] Notification: update with changelog
 - [ ] Favorites: export/import to json file
 - [ ] Improve UX
 - [ ] Video player (support for live TV channels!)
@@ -25,7 +26,7 @@
 - [ ] ?Chromecast support
 - [ ] ?Favorites: export/import to Google drive
 - [ ] ?Recording
-- [ ] ?Extensions?
+- [ ] ?Extensions
 
 ### - Releases Repository -
 
