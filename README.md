@@ -14,6 +14,7 @@
 - [x] Touchbar support
 - [x] Read stream meta-data (which song is playing - for supported streams) 
 - [x] Improve filter of station, countries & tags!
+- [ ] Sonos integration
 - [ ] Mini-mode
 - [ ] Notification: update with changelog
 - [ ] Favorites: export/import to json file
@@ -22,8 +23,7 @@
 - [ ] Minimize window to system tray (Windows/Mac/?Linux?/)
 - [ ] Keyboard shortcuts!
 - [ ] App Menu
-- [ ] ?Sonos support
-- [ ] ?Chromecast support
+- [ ] ?Chromecast integration
 - [ ] ?Favorites: export/import to Google drive
 - [ ] ?Recording
 - [ ] ?Extensions
@@ -33,7 +33,7 @@
 ### https://www.odio.io
 
 ## Support odio 
-### if you want you can support odio by donating, any amount of donation will be appreciated!.
+### you can support odio by donating, any amount of donation will be appreciated!.
 ### paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XCGDX6WKEUXBC&item_name=Supporting+odio&currency_code=ILS&source=url
 
 ## Screenshots
