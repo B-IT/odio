@@ -15,9 +15,9 @@
 - [x] Touchbar support
 - [x] Read stream meta-data (which song is playing - for supported streams) 
 - [x] Improve filter of station, countries & tags!
-- [ ] Sonos integration
+- [x] Sonos integration
 - [ ] Mini-mode
-- [ ] Update page information
+- [ ] Update information page (changelog)
 - [ ] Favorites: export/import to json file
 - [ ] Video player (support for live TV channels!)
 - [ ] Minimize window to system tray (Windows/Mac/?Linux?/)
