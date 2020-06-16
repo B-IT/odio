@@ -16,12 +16,12 @@
 - [x] Read stream meta-data (which song is playing - for supported streams) 
 - [x] Improve filter of station, countries & tags!
 - [x] Sonos integration
+- [X] Video player (support for live TV channels!)
+- [X] Keyboard shortcuts!
 - [ ] Mini-mode
 - [ ] Update information page (changelog)
 - [ ] Favorites: export/import to json file
-- [ ] Video player (support for live TV channels!)
 - [ ] Minimize window to system tray (Windows/Mac/?Linux?/)
-- [ ] Keyboard shortcuts!
 - [ ] App Menu
 - [ ] ?Chromecast integration
 - [ ] ?Favorites: export/import to Google drive
