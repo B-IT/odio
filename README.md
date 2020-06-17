@@ -2,7 +2,7 @@
 
 ## odio is a free radio streaming software with more than 20,000 radio stations from around the world for Windows, MacOs & Linux.
 
-### - Odio version 2.0 new features (the first beta version will be available on 01/07/2020) -
+### - Odio version 2.0 new features (the first beta version will be available on 15/07/2020) -
 
 - [x] Migrate to the new servers (Radio-browser.info)
 - [x] Improve UX
